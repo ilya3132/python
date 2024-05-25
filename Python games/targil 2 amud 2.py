@@ -1,0 +1,7 @@
+print("I love programing in python")
+print("I love\nprograming in python")
+print("love"*3)
+print("I " + "love " + "programing " + "in " + "python " )
+print("4+5")
+print(4+5)
+print("4+5+",4+5)

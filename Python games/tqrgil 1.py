@@ -1,0 +1,1 @@
+print("David\n" + "7th rade\n" + "Makif A\n" + "live in bear sheva\n")
